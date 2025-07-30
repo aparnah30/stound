@@ -30,16 +30,16 @@ const Terms = () => {
             <Card className="p-6">
               <h2 className="text-2xl font-bold text-foreground mb-4">1. Acceptance of Terms</h2>
               <p className="text-muted-foreground leading-relaxed">
-                By accessing and using InvestPro's platform, you agree to be bound by these Terms and Conditions. 
-                If you do not agree to these terms, please do not use our services. These terms apply to all users, 
-                including browsers, vendors, customers, merchants, and content contributors.
+              By accessing and using Stound's platform, you agree to be bound by these Terms and Conditions. 
+              If you do not agree to these terms, please do not use our services. These terms apply to all users, 
+              including browsers, vendors, customers, merchants, and content contributors.
               </p>
             </Card>
 
             <Card className="p-6">
               <h2 className="text-2xl font-bold text-foreground mb-4">2. Investment Services</h2>
               <p className="text-muted-foreground leading-relaxed mb-4">
-                InvestPro provides investment services including but not limited to:
+                Stound provides investment services including but not limited to:
               </p>
               <ul className="text-muted-foreground list-disc list-inside space-y-2">
                 <li>Stock trading and portfolio management</li>
@@ -97,7 +97,7 @@ const Terms = () => {
             <Card className="p-6">
               <h2 className="text-2xl font-bold text-foreground mb-4">7. Limitation of Liability</h2>
               <p className="text-muted-foreground leading-relaxed">
-                InvestPro shall not be liable for any direct, indirect, incidental, special, or consequential damages 
+                Stound shall not be liable for any direct, indirect, incidental, special, or consequential damages 
                 resulting from the use of our platform or services. Our liability is limited to the extent permitted 
                 by applicable law.
               </p>
@@ -106,7 +106,7 @@ const Terms = () => {
             <Card className="p-6">
               <h2 className="text-2xl font-bold text-foreground mb-4">8. Regulatory Compliance</h2>
               <p className="text-muted-foreground leading-relaxed">
-                InvestPro is registered with SEBI and complies with all applicable financial regulations in India. 
+                Stound is registered with SEBI and complies with all applicable financial regulations in India. 
                 Our SEBI registration number is INZ000000000. We adhere to strict compliance standards to ensure 
                 the security and integrity of our services.
               </p>
@@ -127,9 +127,9 @@ const Terms = () => {
                 For any questions regarding these Terms and Conditions, please contact us at:
               </p>
               <div className="mt-4 text-muted-foreground">
-                <p>Email: legal@investpro.com</p>
+                <p>Email: legal@stound.com</p>
                 <p>Phone: +91-80-1234-5678</p>
-                <p>Address: InvestPro Technologies Pvt. Ltd., Bangalore, India</p>
+                <p>Address: Stound Technologies Pvt. Ltd., Bangalore, India</p>
               </div>
             </Card>
           </div>

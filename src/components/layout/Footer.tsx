@@ -8,7 +8,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
             <h3 className="text-2xl font-bold mb-4 bg-gradient-to-r from-primary-glow to-primary bg-clip-text text-transparent">
-              InvestPro
+              Stound
             </h3>
             <p className="text-muted mb-6 max-w-md">
               Empowering your financial journey with smart investment solutions. 
@@ -85,7 +85,7 @@ const Footer = () => {
         <div className="border-t border-muted pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-muted text-sm">
-              © 2024 InvestPro. All rights reserved. | SEBI Reg No: INZ000000000
+              © 2024 Stound. All rights reserved. | SEBI Reg No: INZ000000000
             </p>
             <p className="text-muted text-sm mt-4 md:mt-0">
               Investments are subject to market risks. Please read all documents carefully.
