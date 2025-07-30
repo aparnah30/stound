@@ -25,7 +25,7 @@ const About = () => {
             About Stound
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            We're on a mission to democratize investing and make wealth creation accessible to everyone. 
+            We're on a mission to democratize investing and make wealth creation accessible to everyone.
             Our platform combines cutting-edge technology with user-friendly design to help you achieve your financial goals.
           </p>
         </div>
@@ -38,11 +38,11 @@ const About = () => {
             <div>
               <h2 className="text-4xl font-bold text-foreground mb-8">Our Mission</h2>
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-                To empower every individual with the tools, knowledge, and confidence needed to build long-term wealth 
+                To empower every individual with the tools, knowledge, and confidence needed to build long-term wealth
                 through smart investing. We believe that financial freedom should not be a privilege but a right accessible to all.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Through innovative technology and educational resources, we're breaking down barriers that have traditionally 
+                Through innovative technology and educational resources, we're breaking down barriers that have traditionally
                 kept people away from investing, making it simple, transparent, and rewarding.
               </p>
             </div>
@@ -71,7 +71,7 @@ const About = () => {
               <Shield className="w-16 h-16 text-primary mx-auto mb-6" />
               <h3 className="text-xl font-bold text-foreground mb-4">Trust & Security</h3>
               <p className="text-muted-foreground leading-relaxed">
-                Your financial security is our top priority. We employ bank-grade security measures and maintain 
+                Your financial security is our top priority. We employ bank-grade security measures and maintain
                 complete transparency in all our operations.
               </p>
             </Card>
@@ -79,7 +79,7 @@ const About = () => {
               <Users className="w-16 h-16 text-primary mx-auto mb-6" />
               <h3 className="text-xl font-bold text-foreground mb-4">User-Centric Design</h3>
               <p className="text-muted-foreground leading-relaxed">
-                Every feature is designed with our users in mind. We prioritize simplicity, accessibility, and 
+                Every feature is designed with our users in mind. We prioritize simplicity, accessibility, and
                 an intuitive experience that makes investing effortless.
               </p>
             </Card>
@@ -87,7 +87,7 @@ const About = () => {
               <Award className="w-16 h-16 text-primary mx-auto mb-6" />
               <h3 className="text-xl font-bold text-foreground mb-4">Excellence</h3>
               <p className="text-muted-foreground leading-relaxed">
-                We continuously strive for excellence in technology, customer service, and investment solutions 
+                We continuously strive for excellence in technology, customer service, and investment solutions
                 to deliver the best possible experience.
               </p>
             </Card>
